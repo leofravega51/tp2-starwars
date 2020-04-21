@@ -1,5 +1,5 @@
 # tp2-starwars
-Una vez ubicado en la carpeta raiz (tp2-mandalorian) ejecutar los siguientes comandos:
+Una vez ubicado en la carpeta raiz (tp2-starwars) ejecutar los siguientes comandos:
   1)docker-compose build
   2)docker-compose up
 
